@@ -1,0 +1,22 @@
+{
+  "name": "gensokyoradio-websocket-test",
+  "version": "1.0.0",
+  "description": "Test WebSocket client for Gensokyo Radio",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KabanFriends/grws.git"
+  },
+  "author": "KabanFriends",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KabanFriends/grws/issues"
+  },
+  "homepage": "https://github.com/KabanFriends/grws#readme",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
